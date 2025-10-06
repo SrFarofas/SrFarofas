@@ -1,11 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Murillo Vidal</h1>
 <h3 align="center">Eu sou um densenvolvedor do Brasil</h3>
 
+<img width="800" height="366" alt="aprender-a-programar" src="https://github.com/user-attachments/assets/9a95cd8b-709e-4128-906e-bfb32115c9b3" />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<img width="800" height="366" alt="aprender-a-programar" src="https://github.com/user-attachments/assets/cb136a64-15f4-461c-ba03-7daf3b50b5b5" />
 
 
 <h3 align="left">Languages and Tools:</h3>
