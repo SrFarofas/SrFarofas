@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Murillo Vidal</h1>
-<h3 align="center">Eu sou um desenvolvedor do Brasil</h3>
+<h3 align="center">Estour fazendo um curso para ter experiência em programação.</h3>
 
 - 📫 How to reach me **murilovidal62@gmai.com**
 
