@@ -1,9 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Murillo Vidal</h1>
 <h3 align="center">Estou fazendo um curso para ter experiência em programação.</h3>
 
-- 📫 **murilovidal62@gmai.com**
-
-
 <h3 align="left">Se comunique comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/@murillover_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@murillover_" height="30" width="40" /></a>
