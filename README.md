@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, eu sou Murillo Vidal</h1>
 <h3 align="center">Eu sou um desenvolvedor do Brasil</h3>
 
+<img width="800" height="366" alt="aprender-a-programar" src="https://github.com/user-attachments/assets/e47ccc7f-8800-4e8b-b8cd-f278c71dda5a" />
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/@murillover_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@murillover" height="30" width="40" /></a>
