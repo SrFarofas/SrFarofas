@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Murillo Vidal</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Olá 👋, Eu sou Murillo Vidal</h1>
+<h3 align="center">Eu sou um densenvolvedor do Brasil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
