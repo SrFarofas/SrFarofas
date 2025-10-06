@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, Eu sou Murillo Vidal</h1>
 <h3 align="center">Estou fazendo um curso para ter experiência em programação.</h3>
 
+<img width="800" height="366" alt="aprender-a-programar" src="https://github.com/user-attachments/assets/3630d77a-cc24-495d-8749-f9cba7ec7e89" />
+
 <h3 align="left">Se comunique comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/@murillover_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@murillover_" height="30" width="40" /></a>
